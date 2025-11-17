@@ -6,7 +6,27 @@ Registro de cambios del proyecto SafeDrive Guardian
 
 ### Added
 
-- Aplicación completa de monitoreo de conducción segura con GPS y acelerómetro
+- 
+
+### Changed
+
+- 
+
+### Removed
+
+- 
+
+### Fixed
+
+- 
+
+---
+
+## [2025-11-17]
+
+### Added
+
+- Aplicación completa de monitoreo de conducción segura con GPS y acelerómetro (3594e85)
 - Sistema de detección de eventos de conducción (frenazos, aceleraciones, giros, impactos)
 - Dashboard principal con datos en tiempo real
 - Score de seguridad dinámico (0-100)
